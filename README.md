@@ -149,3 +149,29 @@ _A List of Popular/Controversial Topics_
        one of them is just a data-model and the other one will be responsible
        for operational things, say, load(), get() , ... 
     ```
+    
+    -----------------------------------------------
+
+
+### How do you know if a programmer is a senior or junior?
+ * usage 1:
+    ```
+    A: it is all about soft skills.
+    ```
+    * usage 2:
+    ```
+    A: please don't attach labels.
+    ```
+
+ 
+    -----------------------------------------------
+
+### Do you think girls can be a programmer?
+ * usage 1:
+    ```
+    A: Do you know who the first programmer is? Lady Ada Lovelace!
+    ```
+    * usage 2:
+    ```
+    A: NO!
+    ```
